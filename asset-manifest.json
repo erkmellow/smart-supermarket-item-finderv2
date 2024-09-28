@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/smart-supermarket-item-finderv2/static/css/main.1736ea58.css",
-    "main.js": "/smart-supermarket-item-finderv2/static/js/main.d4d7b678.js",
+    "main.js": "/smart-supermarket-item-finderv2/static/js/main.66b08778.js",
     "static/js/453.2562629c.chunk.js": "/smart-supermarket-item-finderv2/static/js/453.2562629c.chunk.js",
     "index.html": "/smart-supermarket-item-finderv2/index.html",
     "main.1736ea58.css.map": "/smart-supermarket-item-finderv2/static/css/main.1736ea58.css.map",
-    "main.d4d7b678.js.map": "/smart-supermarket-item-finderv2/static/js/main.d4d7b678.js.map",
+    "main.66b08778.js.map": "/smart-supermarket-item-finderv2/static/js/main.66b08778.js.map",
     "453.2562629c.chunk.js.map": "/smart-supermarket-item-finderv2/static/js/453.2562629c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1736ea58.css",
-    "static/js/main.d4d7b678.js"
+    "static/js/main.66b08778.js"
   ]
 }
